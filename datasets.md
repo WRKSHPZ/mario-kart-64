@@ -14,3 +14,5 @@ Het trainen van de datasets kan tijdrovend zijn en vereist een USB gamecontrolle
 | 2024-02-26_222710     | Luigi raceway      |  988   | ja            | 297       | [link](https://mariokart.blob.core.windows.net/data/2024-02-26_222710.zip) |
 | 2024-02-26_222711     | Luigi raceway      | 1896   | ja            | 567       | [link](https://mariokart.blob.core.windows.net/data/2024-02-26_222711.zip) |
 | 2024-02-26_222712     | Luigi raceway      | 1883   | ja            | 560       | [link](https://mariokart.blob.core.windows.net/data/2024-02-26_222712.zip) |
+
+[Alles downloaden](https://mariokart.blob.core.windows.net/data/all.zip)
