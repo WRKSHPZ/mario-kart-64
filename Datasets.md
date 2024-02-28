@@ -1,7 +1,7 @@
 Het trainen van de datasets kan tijdrovend zijn en vereist een USB gamecontroller. Hier zijn een aantal datasets te vinden die je kan downloaden en gebruiken voor de training van het model voor de Mario agent.
 
 | Naam                  | Circuit            | Aantal frames | Incl. flipped | Aantal Mb | Link     |
-| --------------------- | ------------------ | :-----------: | :-----------: | :-------: | -------- |
+| :-------------------- | :----------------- | :-----------: | :-----------: | :-------: | :------- |
 | 2024-02-20_231645     | Luigi raceway      | 2366          | ja            | 721       |          |
 | 2024-02-20_231647     | Luigi raceway      | 3490          | ja            |           |          |
 | 2024-02-25_222241     | Luigi raceway      | 1211          | ja            |           |          |
