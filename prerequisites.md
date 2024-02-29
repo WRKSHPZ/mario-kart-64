@@ -1,5 +1,9 @@
 ## Prerequisites
 
+#### Hardware
+ - Xbox-like USB controller
+ - Maximale resolutie van je 'main screen' van 1920x1080 pixels. Het spelen en capturen van de Mario Kart emulator gebeurt altijd vanaf Display:0 = je main screen
+
 #### Software
 - [Python 3.11](https://www.python.org/downloads/release/python-3110/) (vergeet je PATH environment variable niet aan te passen)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
