@@ -35,6 +35,7 @@ In de [Tensorkart](https://github.com/WRKSHPZ/Tensorkart) repository vind je een
 
 1. Sluit een USB gamepad aan en controleer of deze herkend wordt in het systeem.
 1. Open de Tensorkart repository in Visual Studio Code
+1. Run een commando om de Python dependencies te installeren: ```pip install -r requirements.txt```
 1. Open een terminal en start record.py middels: ```python .\record.py```
 1. Er start nu een GUI. Linksboven zie je 640x480 pixels uit de linkse bovenhoek van je scherm. Rechts zie je de input van de USB gamepad. Onderin een map waar de screenshots (frames) en joystick input naar wordt weggeschreven en een 'Record' knop.
 1. Kopieer nu de [Mario kart 64 ROM](https://mariokart.blob.core.windows.net/data/mario-kart-64.z64) naar de mupen64plus map en start in een nieuwe terminal in vs code de mupen64plus emulator met de ROM middels: ```.\mupen64plus-ui-console.exe  mario-kart-64.z64```
