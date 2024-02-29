@@ -114,7 +114,7 @@ De architectuur ziet er zo uit (dit komt uit de documentatie van gym-mupen64plus
 ![Gym-Mupen64Plus architecture](image.png)
 De rode stippellijnen zijn de container boundaries.
 
-3. Open nu een terminal en trap de containers af middels: ```docker-compose up --build -d```
+3. Open nu een terminal en trap de containers af middels: ```docker-compose up --build -d``` (let op: dit kan een paar minuten duren de eerste keer dat je de containers build)
 1. De eerste build duurt wat langer door het ophalen van de packages en dependencies, maar als alle 4 de containers gestart zijn, open dan de RealVNC vieuwer en maak een connectie naar ```localhost:5900```
 1. Via de VNC viewer kunnen we bekijken welke info er over de Framebuffer container wordt gestuurd.
 
