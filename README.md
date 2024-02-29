@@ -22,7 +22,7 @@ Dit is overigens geen kinderachtig model, maar een [Tensorflow implementatie](ht
 Uitgebreide info over het installeren van de prerequisites vind je hier: [link](prerequisites.md)
 
 TLDR:
-- Installeren Python 3.11 (vergeet je PATH environment variable niet aan te passen)
+- Installeren Python 3.11 (vergeet je PATH environment variable niet aan te passen van Python **én** Pip)
 - Docker Desktop
 - [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 - [Mupen64plus](https://github.com/mupen64plus/mupen64plus-core/releases/tag/2.5.9)
