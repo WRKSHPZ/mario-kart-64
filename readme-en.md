@@ -123,7 +123,3 @@ The red dashed lines are the container boundaries.
 
 ## Step 5: Lather, Rinse, Repeat
 Now that we have the training pipeline set up, we can fine-tune the model so that it can complete a lap around the circuit. Check the [training tips](#training-tips) above for more guidance.
-
----
-
-This should cover the translation of the entire text into English.
