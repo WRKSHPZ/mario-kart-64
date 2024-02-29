@@ -1,7 +1,3 @@
-Sure! Here's the translation of the provided text into English:
-
----
-
 We are going to use machine learning in Python and Tensorflow in this workshop to train an agent to play Mario Kart 64.
 
 As a basis for this workshop, the project [Tensorkart](https://github.com/kevinhughes27/TensorKart) by **Kevin Hughes** was used. However, this project was already 8 years old and based on Python 2.7. The requirements needed for this project are not easily found in the standard package management sources. We have forked his project and made it suitable for Python 3.11.
