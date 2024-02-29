@@ -1,7 +1,7 @@
 ## Prerequisites
 
 #### Software
-- [Python 3.11](https://www.python.org/downloads/release/python-3110/)
+- [Python 3.11](https://www.python.org/downloads/release/python-3110/) (vergeet je PATH environment variable niet aan te passen)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 - [Mupen64plus](https://github.com/mupen64plus/mupen64plus-core/releases/tag/2.5.9)
