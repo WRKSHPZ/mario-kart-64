@@ -29,6 +29,7 @@ TLDR:
 - [Mario kart 64 ROM](https://mariokart.blob.core.windows.net/data/mario-kart-64.z64)
 - Repositories downloaden
 https://github.com/WRKSHPZ/Tensorkart, https://github.com/WRKSHPZ/gym-mupen64plus
+- Script is 8 jaar oud en daarmee old-skool voor hoge resolutie schermen, dus kan niet goed omgaan met resoluties boven de 1920x1080. Als je dus een hogere resolutie hebt op je main screen, zet die dan even op maximaal 1920x1080.
 
 ## Stap 1: Trainingsdata verzamelen en taggen
 In de [Tensorkart](https://github.com/WRKSHPZ/Tensorkart) repository vind je een aantal [python scripts](python-scripts.md). Een van die scripts is **record.py** die we in de eerste stap gaan gebruiken voor het genereren van onze training data:
