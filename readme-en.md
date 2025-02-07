@@ -12,7 +12,7 @@ We also need [Docker Desktop](https://www.docker.com/products/docker-desktop/) f
 ## Workshop intro
 Since we are going to train a machine learning model to play Mario Kart 64, we will go through the 'standard' steps involved in training an ML model:
 - Gathering and tagging training data
-- Preparing training data for processing
+- Preparing training data for processing.
 - Training the model
 - Verifying the performance of the model
 
